@@ -1,5 +1,4 @@
 
-# Specification 'epub-rs-bugs'
+# Repository for EPUB 3 Reading Systems bugs
 
-This is the repository for epub-rs-bugs. You're welcome to contribute! Let's make the Web rock our socks
-off!
+This is the repository for EPUB 3 Reading Systems bugs.
