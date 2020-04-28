@@ -14,3 +14,6 @@ Description of the observed behavior (screenshot optional)
 
 ### Code Example: 
 A snippet of the problematic HTML/XML/CSS
+
+### Example files:
+Include an example EPUB file only if you have the rights to do so. 
