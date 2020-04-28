@@ -11,3 +11,5 @@ This is a repo dedicated to collecting and maintaining the status of bugs found 
 **For each issue, the title should be a clear, brief description of the bug
 
 **The issue should have the appropriate topic, reading system label(s) and Device/OS label(s) applied
+
+**Please let us know if we are missing labels for reading systems
