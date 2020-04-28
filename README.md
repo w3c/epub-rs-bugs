@@ -6,8 +6,8 @@ This is a repo dedicated to collecting and maintaining the status of bugs found 
 # Contributing to EPUB RS Bugs
 * Please only report bugs and not new features/enhancements
 * Please read existing issues to make sure you are not creating a duplicate issue
-* Please follow the [bug report template](#bug-report-template) below
+* Please follow the [bug report template](https://github.com/w3c/epub-rs-bugs/blob/master/bug-report-template.md) 
 
 **For each issue, the title should be a clear, brief description of the bug
 
-**The issue should have the appropriate topic and reading system label(s)
+**The issue should have the appropriate topic and reading system label(s) applied
