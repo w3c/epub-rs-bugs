@@ -12,7 +12,7 @@ We hope that this repo will become an open dialog between content creators, cont
 
   * For each issue, the title should be a clear, brief description of the bug
 
-  * The issue should have the appropriate topic, reading system label(s) and Device/OS label(s) applied
+  * The issue should have the appropriate topic, reading system label(s) and Device/OS label(s) applied for where you have tested this issue
   
   * If you are a reading system developer for the reading system noted, you may add RS label(s) to note if this issue is acknowledged or a fix in your development pipeline
   
