@@ -17,3 +17,6 @@ A snippet of the problematic HTML/XML/CSS
 
 ### Example Files:
 Include an example EPUB file only if you have the rights to do so.
+
+### Workaround:
+Include example code if there is a workaround that you have identified
