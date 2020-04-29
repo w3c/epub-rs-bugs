@@ -8,8 +8,8 @@ This is a repo dedicated to collecting and maintaining the status of bugs found 
 * Please read existing issues to make sure you are not creating a duplicate issue
 * Please follow the [bug report template](https://github.com/w3c/epub-rs-bugs/blob/master/bug-report-template.md) 
 
-**For each issue, the title should be a clear, brief description of the bug
+  * For each issue, the title should be a clear, brief description of the bug
 
-**The issue should have the appropriate topic, reading system label(s) and Device/OS label(s) applied
+  * The issue should have the appropriate topic, reading system label(s) and Device/OS label(s) applied
 
-**Please let us know if we are missing labels for reading systems
+  * Please let us know if we are missing labels for reading systems
