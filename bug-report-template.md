@@ -21,5 +21,8 @@ Include an example EPUB file only if you have the rights to do so
 ### Workaround:
 Include example code if there is a workaround that you have identified
 
+### Example Titles and ISBNs in Market:
+Include any example titles with their ISBNS that may be in the marketplace so that RS developers can review the issue 
+
 ### Role in EPUB Ecosystem:
 Include your role (content creator, publisher, RS developer, software developer, converter) and what part of the EPUB world you represent (education, trade publishing, what country or continent)
